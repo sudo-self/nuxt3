@@ -1,4 +1,4 @@
-## nuxt-3 template with tailwind and dev-tools
+## nuxt-3 JS with tailwind.css and devtools
 ![Screenshot 2024-01-21 at 1 29 20 AM](https://github.com/sudo-self/nuxt3/assets/119916323/c2cdfdd9-1b40-4fee-96d8-fc04f8875825)
 
 
