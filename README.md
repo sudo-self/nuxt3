@@ -1,6 +1,5 @@
 ## nuxt-3 JS with tailwind.css and devtools
 ![Screenshot 2024-01-21 at 1 29 20 AM](https://github.com/sudo-self/nuxt3/assets/119916323/c2cdfdd9-1b40-4fee-96d8-fc04f8875825)
-### ![IMG_3079 2](https://github.com/sudo-self/nuxt3/assets/119916323/b2001214-cf10-41de-bbea-562c60931289)
 
 
 
@@ -21,6 +20,7 @@ npm run dev
 ### Production
 
 Build the application for production:
+![IMG_3079](https://github.com/sudo-self/nuxt3/assets/119916323/45096640-745c-4136-a81b-9e3c10339f13)
 
 ```bash
 npm run build
